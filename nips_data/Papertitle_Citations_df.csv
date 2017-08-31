@@ -1,0 +1,85 @@
+,PaperTitle,CitationCounts
+0,Latent Bayesian melding for integrating individual and population models,6
+1,Learning Stationary Time Series using Gaussian Processes with Nonparametric Kernels,9
+2,Equilibrated adaptive learning rates for non-convex optimization,84
+3,Distributed Submodular Cover: Succinctly Summarizing Massive Data,8
+4,Structured Transforms for Small-Footprint Deep Learning,44
+5,Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding,51
+6,Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization,63
+7,Action-Conditional Video Prediction using Deep Networks in Atari Games,110
+8,A Reduced-Dimension fMRI Shared Response Model,18
+9,Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma,10
+10,Deep Convolutional Inverse Graphics Network,157
+11,Fast and Guaranteed Tensor Decomposition via Sketching,28
+12,Biologically Inspired Dynamic Textures for Probing Motion Perception,7
+13,Spherical Random Features for Polynomial Kernels,16
+14,COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution,41
+15,Attractor Network Dynamics Enable Preplay and Rapid Path Planning in Maze–like Environments,4
+16,Adaptive Online Learning,9
+17,Submodular Hamming Metrics,7
+18,The Self-Normalized Estimator for Counterfactual Learning,14
+19,Attention-Based Models for Speech Recognition,160
+20,Optimal Rates for Random Fourier Features,22
+21,Sampling from Probabilistic Submodular Models,16
+22,Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees,12
+23,Rapidly Mixing Gibbs Sampling for a Class of Factor Graphs Using Hierarchy Width,6
+24,Optimal Testing for Properties of Distributions,30
+25,b-bit Marginal Regression,4
+26,Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation,67
+27,Where are they looking?,20
+28,Accelerated Mirror Descent in Continuous and Discrete Time,18
+29,Precision-Recall-Gain Curves: PR Analysis Done Right,8
+30,Closed-form Estimators for High-dimensional Generalized Linear Models,1
+31,Empirical Localization of Homogeneous Divergences on Discrete Sample Spaces,2
+32,Pointer Networks,142
+33,Information-theoretic lower bounds for convex optimization with erroneous oracles,12
+34,"""NEXT: A System for Real-World Development, Evaluation, and Application of Active Learning""",11
+35,Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets,16
+36,Super-Resolution Off the Grid,1
+37,Extending Gossip Algorithms to Distributed Estimation of U-statistics,2
+38,Backpropagation for Energy-Efficient Neuromorphic Computing,59
+39,Learning Wake-Sleep Recurrent Attention Models,25
+40,Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets,104
+41,Spatial Transformer Networks,386
+42,Learning with Symmetric Label Noise: The Importance of Being Unhinged,33
+43,Distributionally Robust Logistic Regression,13
+44,Top-k Multiclass SVM,6
+45,Deep learning with Elastic Averaging SGD,81
+46,Data Generation as Sequential Decision Making,10
+47,Color Constancy by Learning to Predict Chromaticity from Luminance,5
+48,Fast Convergence of Regularized Learning in Games,14
+49,Automatic Variational Inference in Stan,56
+50,Probabilistic Line Searches for Stochastic Optimization,15
+51,Market Scoring Rules Act As Opinion Pools For Risk-Averse Agents,1
+52,The Return of the Gating Network: Combining Generative Models and Discriminative Training in Natural Image Priors,3
+53,Efficient and Parsimonious Agnostic Active Learning,8
+54,Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff,8
+55,Large-Scale Bayesian Multi-Label Learning via Topic-Based Label Embeddings,7
+56,Less is More: Nyström Computational Regularization,35
+57,Logarithmic Time Online Multiclass prediction,33
+58,On the Pseudo-Dimension of Nearly Optimal Auctions,40
+59,Scalable Semi-Supervised Aggregation of Classifiers,9
+60,A Tractable Approximation to Optimal Point Process Filtering: Application to Neural Encoding,3
+61,On some provably correct cases of variationalinference for topic models,8
+62,Stochastic Expectation Propagation,28
+63,Learning to Segment Object Candidates,126
+64,Linear Response Methods for Accurate Covariance Estimates from Mean Field Variational Bayes,21
+65,Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems,133
+66,Interactive Control of Diverse Complex Characters with Neural Networks,28
+67,The Human Kernel,16
+68,Deep Visual Analogy-Making,42
+69,Measuring Sample Quality with Stein's Method,24
+70,Learning Theory and Algorithms for Forecasting Non-stationary Time Series,8
+71,LASSO with Non-linear Measurements is Equivalent to One With Linear Measurements,24
+72,Multi-Layer Feature Reduction for Tree Structured Group Lasso via Hierarchical Projection,6
+73,Matrix Completion with Noisy Side Information,19
+74,Competitive Distribution Estimation: Why is Good-Turing Good,13
+75,Minimum Weight Perfect Matching via Blossom Belief Propagation,3
+76,Training Very Deep Networks,211
+77,On some provably correct cases of variational inference for topic models,8
+78,High-dimensional neural spike train analysis with generalized count linear dynamical systems,9
+79,Collaborative Filtering with Graph Information: Consistency and Scalable Methods,38
+80,On some provably correct cases of variational inferencefor topic models,8
+81,End-To-End Memory Networks,322
+82,Randomized Block Krylov Methods for Stronger and Faster Approximate Singular Value Decomposition,24
+83,On-the-Job Learning with Bayesian Decision Theory,4

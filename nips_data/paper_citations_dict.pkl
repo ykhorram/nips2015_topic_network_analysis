@@ -1,0 +1,278 @@
+(dp0
+S'Latent Bayesian melding for integrating individual and population models'
+p1
+S'6'
+p2
+sS'Learning Stationary Time Series using Gaussian Processes with Nonparametric Kernels'
+p3
+I9
+sS'Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding'
+p4
+S'51'
+p5
+sS'Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization'
+p6
+I63
+sS'Action-Conditional Video Prediction using Deep Networks in Atari Games'
+p7
+I110
+sS'Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff'
+p8
+I8
+sS'A Reduced-Dimension fMRI Shared Response Model'
+p9
+S'18'
+p10
+sS"Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma"
+p11
+S'10'
+p12
+sS'Deep Convolutional Inverse Graphics Network'
+p13
+S'157'
+p14
+sS'Interactive Control of Diverse Complex Characters with Neural Networks'
+p15
+I28
+sS'Training Very Deep Networks'
+p16
+I211
+sS'Fast and Guaranteed Tensor Decomposition via Sketching'
+p17
+I28
+sS'Biologically Inspired Dynamic Textures for Probing Motion Perception'
+p18
+I7
+sS'Learning Wake-Sleep Recurrent Attention Models'
+p19
+I25
+sS'Competitive Distribution Estimation: Why is Good-Turing Good'
+p20
+I13
+sS'Sampling from Probabilistic Submodular Models'
+p21
+I16
+sS'Submodular Hamming Metrics'
+p22
+I7
+sS'The Self-Normalized Estimator for Counterfactual Learning'
+p23
+I14
+sS'Attention-Based Models for Speech Recognition'
+p24
+I160
+sS'Information-theoretic lower bounds for convex optimization with erroneous oracles'
+p25
+I12
+sS'Optimal Rates for Random Fourier Features'
+p26
+I22
+sS'Adaptive Online Learning'
+p27
+S'9'
+p28
+sS'Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees'
+p29
+I12
+sS'Rapidly Mixing Gibbs Sampling for a Class of Factor Graphs Using Hierarchy Width'
+p30
+g2
+sS'Logarithmic Time Online Multiclass prediction'
+p31
+S'33'
+p32
+sS'Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation'
+p33
+I67
+sS'Where are they looking?'
+p34
+S'20'
+p35
+sS'On some provably correct cases of variational inferencefor topic models'
+p36
+I8
+sS'Precision-Recall-Gain Curves: PR Analysis Done Right'
+p37
+I8
+sS'Closed-form Estimators for High-dimensional Generalized Linear Models'
+p38
+I1
+sS'On some provably correct cases of variational inference for topic models'
+p39
+I8
+sS'b-bit Marginal Regression'
+p40
+I4
+sS'Spatial Transformer Networks'
+p41
+S'386'
+p42
+sS'Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets'
+p43
+S'16'
+p44
+sS'Super-Resolution Off the Grid'
+p45
+S'1'
+p46
+sS'Extending Gossip Algorithms to Distributed Estimation of U-statistics'
+p47
+I2
+sS'Backpropagation for Energy-Efficient Neuromorphic Computing'
+p48
+I59
+sS'Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems'
+p49
+I133
+sS'Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets'
+p50
+S'104'
+p51
+sS'Minimum Weight Perfect Matching via Blossom Belief Propagation'
+p52
+I3
+sS'Collaborative Filtering with Graph Information: Consistency and Scalable Methods'
+p53
+I38
+sS'Distributionally Robust Logistic Regression'
+p54
+I13
+sS'End-To-End Memory Networks'
+p55
+I322
+sS'Top-k Multiclass SVM'
+p56
+I6
+sS'Deep learning with Elastic Averaging SGD'
+p57
+I81
+sS'Data Generation as Sequential Decision Making'
+p58
+I10
+sS'Color Constancy by Learning to Predict Chromaticity from Luminance'
+p59
+S'5'
+p60
+sS'Fast Convergence of Regularized Learning in Games'
+p61
+I14
+sS'Automatic Variational Inference in Stan'
+p62
+I56
+sS'Probabilistic Line Searches for Stochastic Optimization'
+p63
+S'15'
+p64
+sS'Market Scoring Rules Act As Opinion Pools For Risk-Averse Agents'
+p65
+g46
+sS'The Return of the Gating Network: Combining Generative Models and Discriminative Training in Natural Image Priors'
+p66
+S'3'
+p67
+sS'Efficient and Parsimonious Agnostic Active Learning'
+p68
+I8
+sS'Matrix Completion with Noisy Side Information'
+p69
+S'19'
+p70
+sS'Large-Scale Bayesian Multi-Label Learning via Topic-Based Label Embeddings'
+p71
+I7
+sS'Less is More: Nystr\xc3\xb6m Computational Regularization'
+p72
+I35
+sS'Empirical Localization of Homogeneous Divergences on Discrete Sample Spaces'
+p73
+I2
+sS'On the Pseudo-Dimension of Nearly Optimal Auctions'
+p74
+S'40'
+p75
+sS'Pointer Networks'
+p76
+I142
+sS'Stochastic Expectation Propagation'
+p77
+I28
+sS'The Human Kernel'
+p78
+I16
+sS'Scalable Semi-Supervised Aggregation of Classifiers'
+p79
+g28
+sS'A Tractable Approximation to Optimal Point Process Filtering: Application to Neural Encoding'
+p80
+I3
+sS'On some provably correct cases of variationalinference for topic models'
+p81
+I8
+sS'Learning to Segment Object Candidates'
+p82
+I126
+sS'Spherical Random Features for Polynomial Kernels'
+p83
+I16
+sS'Linear Response Methods for Accurate Covariance Estimates from Mean Field Variational Bayes'
+p84
+I21
+sS'"NEXT: A System for Real-World Development, Evaluation, and Application of Active Learning"'
+p85
+S'11'
+p86
+sS'High-dimensional neural spike train analysis with generalized count linear dynamical systems'
+p87
+g28
+sS'Equilibrated adaptive learning rates for non-convex optimization'
+p88
+I84
+sS'Deep Visual Analogy-Making'
+p89
+S'42'
+p90
+sS'Learning Theory and Algorithms for Forecasting Non-stationary Time Series'
+p91
+I8
+sS'LASSO with Non-linear Measurements is Equivalent to One With Linear Measurements'
+p92
+S'24'
+p93
+sS'Multi-Layer Feature Reduction for Tree Structured Group Lasso via Hierarchical Projection'
+p94
+I6
+sS'Optimal Testing for Properties of Distributions'
+p95
+S'30'
+p96
+sS'Attractor Network Dynamics Enable Preplay and Rapid Path Planning in Maze\xe2\x80\x93like Environments'
+p97
+I4
+sS'Learning with Symmetric Label Noise: The Importance of Being Unhinged'
+p98
+S'33'
+p99
+sS"Measuring Sample Quality with Stein's Method"
+p100
+I24
+sS'COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution'
+p101
+I41
+sS'Structured Transforms for Small-Footprint Deep Learning'
+p102
+I44
+sS'Distributed Submodular Cover: Succinctly Summarizing Massive Data'
+p103
+S'8'
+p104
+sS'Accelerated Mirror Descent in Continuous and Discrete Time'
+p105
+I18
+sS'Randomized Block Krylov Methods for Stronger and Faster Approximate Singular Value Decomposition'
+p106
+S'24'
+p107
+sS'On-the-Job Learning with Bayesian Decision Theory'
+p108
+I4
+s.
