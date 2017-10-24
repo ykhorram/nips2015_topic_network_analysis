@@ -1,6 +1,6 @@
 # NIPS2015 Topic Modeling and Network Analysis
 
-This notebook started off from Kaggles NIPS 2015 Papers dataset: https://www.kaggle.com/benhamner/nips-2015-papers I then parsed the web for the number of citation recieved by each paper published in NIPS 2015, using this package: https://github.com/ckreibich/scholar.py
+This notebook started off from Kaggles [NIPS 2015 Papers dataset](https://www.kaggle.com/benhamner/nips-2015-papers): I then parsed the web for the number of citation recieved by each paper published in NIPS 2015, using this package: https://github.com/ckreibich/scholar.py
 
 Some main topics at NIPS according to [wikipedia](https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems)
 : 1. Machine learning, 2. Statistics, 3. Artificial intelligence, 4. Computational neuroscience, etc. However, the topics are within the same domain which makes it more challenging to distinguish between them. Here in this Kernel I will try to extract some topics using Latent Dirichlet allocation LDA. This tutorial features an end-to-end natural language processing pipeline, starting with raw data and running through preparing, modeling, visualizing the paper. We'll touch on the following points:
