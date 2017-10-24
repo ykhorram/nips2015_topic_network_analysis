@@ -1,4 +1,4 @@
-# nips2015_topic_network_analysis
+# NIPS2015 Topic Modeling and Network Analysis
 
 Topic Modeling and Network Analysis: NIPS 2015
 
